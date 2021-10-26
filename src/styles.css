@@ -1,0 +1,6 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+/* Fundo da mesma cor da tabela */
+body {
+    background-color: #212529;
+}
